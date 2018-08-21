@@ -15,8 +15,7 @@ dependencies {
 ```
 
 ##使用方法直接看
-
-in java:
 [MainActivity](https://github.com/czh235285/ObservableRecylerView/blob/master/app/src/main/java/czh/widget/observablerecyclerview/MainActivity.java)  
-in xml :
+
+in xml:
 [activity_main](https://github.com/czh235285/ObservableRecylerView/blob/master/app/src/main/res/layout/activity_main.xml)
