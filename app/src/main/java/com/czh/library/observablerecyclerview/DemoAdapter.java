@@ -12,13 +12,13 @@ import java.util.List;
  * Created by admin on 2018/4/16.
  */
 
-public class DemoAdapter extends BaseQuickAdapter<String,BaseViewHolder>{
+public class DemoAdapter extends BaseQuickAdapter<String, BaseViewHolder> {
     public DemoAdapter(@LayoutRes int layoutResId, @Nullable List<String> data) {
         super(layoutResId, data);
     }
 
     @Override
     protected void convert(BaseViewHolder helper, String item) {
-helper.setText(R.id.text, item);
+        helper.setText(R.id.text, item);
     }
 }
