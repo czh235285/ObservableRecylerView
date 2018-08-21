@@ -1,5 +1,5 @@
 # ObservableRecylerView
-自定义上拉隐藏下拉显示的RecylerView
+自定义上拉隐藏下拉显示头部的RecylerView
 
 use Gradle:
 
