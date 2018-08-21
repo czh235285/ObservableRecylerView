@@ -10,7 +10,7 @@ repositories {
   google()
 }
 dependencies {
-    implementation 'com.github.czh235285:LikeView:1.0.1'
+   implementation 'com.github.czh235285:ObservableRecylerView:1.0.0'
 }
 ```
 
