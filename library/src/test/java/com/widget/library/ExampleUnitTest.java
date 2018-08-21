@@ -1,4 +1,4 @@
-package com.czh.library.library;
+package com.czh.widget.library;
 
 import org.junit.Test;
 

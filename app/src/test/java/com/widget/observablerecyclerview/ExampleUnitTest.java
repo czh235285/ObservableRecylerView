@@ -1,4 +1,4 @@
-package com.czh.library.observablerecyclerview;
+package com.czh.widget.observablerecyclerview;
 
 import org.junit.Test;
 

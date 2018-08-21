@@ -1,4 +1,4 @@
-package com.czh.library.observablerecyclerview;
+package czh.widget.observablerecyclerview;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,9 +6,9 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.view.View;
 import android.widget.TextView;
 
-import com.czh.library.library.ObservableRecylerView;
-import com.czh.library.library.ObservableScrollViewCallbacks;
-import com.czh.library.library.ScrollState;
+import czh.widget.ObservableRecylerView;
+import czh.widget.ObservableScrollViewCallbacks;
+import czh.widget.ScrollState;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.czh.library.observablerecyclerview;
+package czh.widget.observablerecyclerview;
 
 import android.support.annotation.LayoutRes;
 import android.support.annotation.Nullable;

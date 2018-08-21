@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.czh.library.library;
+package czh.widget;
 
 /**
  * Constants that indicates the scroll state of the Scrollable widgets.

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.czh.library.observablerecyclerview"
+        applicationId "czh.widget.observablerecyclerview"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
