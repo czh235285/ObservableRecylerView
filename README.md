@@ -14,4 +14,4 @@ dependencies {
 }
 ```
 
-##使用方法直接看[MainActivity](https://github.com/czh235285/ObservableRecylerView/blob/master/app/src/main/java/com/czh/library/observablerecyclerview/MainActivity.java)
+##使用方法直接看[MainActivity](https://github.com/czh235285/ObservableRecylerView/blob/master/app/src/main/java/czh/widget/observablerecyclerview/MainActivity.java)
